@@ -1,0 +1,5 @@
+crackers_ritz 0.2 Amazon
+diapers_huggies 26.3 Amazon
+oatmeal 1.8 Amazon
+peanut_butter_jif 0.54 HyVee
+ziploc_gallon_bags 0.1 HyVee

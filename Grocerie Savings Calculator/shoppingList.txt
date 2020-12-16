@@ -1,0 +1,6 @@
+5
+crackers_ritz 2
+diapers_huggies 10
+oatmeal 3 
+peanut_butter_jif 3
+ziploc_gallon_bags 1
